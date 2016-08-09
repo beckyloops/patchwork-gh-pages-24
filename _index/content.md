@@ -1,28 +1,16 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "http://www.secondwavemedia.com/concentrate/images/Features/Issue_33/Rebecca_003.jpg"
+name: "Rebecca Lopez Kriss"
+title: "Director of Marketing and Communications"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Rebecca is a dedicated public servant, committed to civic engagement and economic development.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+Rebecca has been with the Philadelphia Department of Commerce for five years and in that time she supported the creation of the Startup PHL Call for Ideas program and worked closely with attracting and retaining tech firms in Philadelphia. She is currently the Director of Marketing and Communication for the Philadelphia Department of Commerce, a role which helps businesses understand benefits and services provided to businesses by the City of Philadelphia. She holds a Master of Public Policy from the Gerald R. Ford School of Public Policy, University of Michigan.
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+View her [linkedin profile](https://www.linkedin.com/in/rebeccalopezkriss)
 
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
-
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
-
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+####Rebecca is super cool; the reasons include:
+* She is in a band
+* She is a knitter
+* She is a hip mama
